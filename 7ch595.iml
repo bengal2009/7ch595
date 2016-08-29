@@ -7,18 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://C:/JavaLib/p4jlib/lib" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://C:/JavaLib/p4jlib/lib" />
-        </SOURCES>
-        <jarDirectory url="file://C:/JavaLib/p4jlib/lib" recursive="false" />
-        <jarDirectory url="file://C:/JavaLib/p4jlib/lib" recursive="false" type="SOURCES" />
-      </library>
-    </orderEntry>
+    <orderEntry type="library" name="lib" level="project" />
   </component>
 </module>
