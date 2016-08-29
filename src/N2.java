@@ -15,7 +15,7 @@ import com.pi4j.io.gpio.RaspiPin;
  *      .  |6     11|-> SH_CP (PB1, pin 52)
  *      .  |7     10|-> MR
  *     GND |8      9| Q7'
-
+11
  */
 
 public class N2 {
